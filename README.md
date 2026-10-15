@@ -1,3 +1,8 @@
+# ARCHIVED
+This is a legacy project that has been superseded by [Codex Link](https://github.com/Ambassators/codex-link)
+
+
+
 # Portable Codex
 
 Portable Codex lets a ChatGPT custom app, built with the Apps SDK/MCP connector flow, act on trusted local workspaces through a hosted relay and a desktop companion app. Legacy Custom GPT Actions are still supported.
